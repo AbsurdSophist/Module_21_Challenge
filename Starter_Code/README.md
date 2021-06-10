@@ -17,6 +17,7 @@ The project uses the following applications:
 ![Initial Deploymnet: Remix](Inital_Deploy_Remix.png)
 ![Initial Deployment: Ganache ](Inital_Deploy_Ganache.png)
 ![Contract Menu](Inital_Deploy_Contract_Menu.png)
+![Transfer_Confirmation](Transfer_Confirmation.png)
 
 
 ## Contributors
