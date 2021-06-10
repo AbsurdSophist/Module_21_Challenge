@@ -11,7 +11,7 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale {
         address payable wallet, 
         KaseiCoin token 
     )
-      Crowdsale(rate, wallet, token)
+      public Crowdsale(rate, wallet, token)
       public
     {
         // constructor can stay empty
@@ -34,6 +34,7 @@ contract KaseiCoinCrowdsaleDeployer {
         
         KaseiCoinCrowdsale kasei_crowdsale =
             new KaseiCoinCrowdsale(1, wallet, token);
+
         kasei_crowdsale_address = address(kasei_crowdsale);
 
     
