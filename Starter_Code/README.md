@@ -13,10 +13,10 @@ The project uses the following applications:
 
 ![Compiled KaseiCoin Contract](Compiled_KaseiCoin.png)
 ![Compiled KaseiCoinCrowdSale Contract](Compiled_KaseiCoinCrowdSale.png)
-![CompiledKaseiCoinDeploymentCrowdSaleContact](CompiledKaseiCoinDeployedCrowdsale.png)
-![Initial Deploymnet: Remix](Inital_Deploy_Remix.png)
-![Initial Deployment: Ganache ](Inital_Deploy_Ganache.png)
-![Contract Menu](Inital_Deploy_Contract_Menu.png)
+![CompiledKaseiCoinDeploymentCrowdSaleContact](Compiled_KaseiCoinDeployedCrowdsale.png)
+![Initial Deployment: Remix](Initial_Deploy_Remix.png)
+![Initial Deployment: Ganache ](Initial_Deploy_Ganache.png)
+![Contract Menu](Initial_Deploy_Contract_Menu.png)
 ![Transfer_Confirmation](Transfer_Confirmation.png)
 
 
